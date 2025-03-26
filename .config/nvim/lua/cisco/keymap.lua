@@ -12,3 +12,7 @@ vim.keymap.set('v', '<leader>p', '"+p', { noremap = true, silent = true })
 -- Center screen when ctrl+d and ctrl+u
 vim.keymap.set('n', '<C-u>', '<C-u>zz', { noremap = true })
 vim.keymap.set('n', '<C-d>', '<C-d>zz', { noremap = true })
+
+-- Save with ctrl + s and format
+vim.keymap.set({ 'n', 'i' }, '<C-s>', '<Esc><cmd>w<CR><cmd>lua vim.lsp.buf.format()<CR>',
+  { noremap = true, silent = true })

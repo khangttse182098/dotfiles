@@ -34,3 +34,6 @@ vim.api.nvim_create_autocmd('TextYankPost', {
     vim.highlight.on_yank()
   end,
 })
+
+-- add cursor line
+vim.opt.cursorline = true
