@@ -117,13 +117,13 @@ alias wlogout="kill $(who -u | awk 'NR==1 {print $6}')"
 # alias
 
 # pyenv config (cleaned up)
-export PYENV_ROOT="$HOME/.pyenv"
-[[ -d "$PYENV_ROOT/bin" ]] && export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init - bash)"
+# export PYENV_ROOT="$HOME/.pyenv"
+# [[ -d "$PYENV_ROOT/bin" ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+# eval "$(pyenv init - bash)"
 
 # oh-my-posh config
-export PATH="$PATH:/home/cisco/.local/bin"
-eval "$(oh-my-posh init bash --config ~/Documents/json.omp.json)"
+# export PATH="$PATH:/home/cisco/.local/bin"
+# eval "$(oh-my-posh init bash --config ~/Documents/json.omp.json)"
 
 # Rust Cargo environment (if installed)
 if [ -f "$HOME/.cargo/env" ]; then
