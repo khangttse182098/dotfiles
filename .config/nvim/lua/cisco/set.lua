@@ -1,5 +1,5 @@
-vim.opt.timeoutlen=500 
-vim.opt.ttimeoutlen=10 
+vim.opt.timeoutlen = 500
+vim.opt.ttimeoutlen = 10
 vim.opt.number = true
 vim.opt.relativenumber = true
 vim.opt.termguicolors = true
@@ -19,4 +19,3 @@ vim.opt.scrolloff = 10
 
 -- Decrease update time
 vim.opt.updatetime = 250
-

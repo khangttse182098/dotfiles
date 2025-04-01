@@ -35,15 +35,15 @@ bindkey '^e' edit-command-line
 
 
 #my config
-if command -v tmux &> /dev/null; then
-   if [ -z "$TMUX" ]; then
-     if tmux ls &> /dev/null; then
-       exec tmux attach-session -t "$(tmux ls | awk 'NR==1{print $1}' | cut -d: -f1)"
-     else
-       exec tmux new-session -s main
-     fi
-   fi
- fi
+# if command -v tmux &> /dev/null; then
+#    if [ -z "$TMUX" ]; then
+#      if tmux ls &> /dev/null; then
+#        exec tmux attach-session -t "$(tmux ls | awk 'NR==1{print $1}' | cut -d: -f1)"
+#      else
+#        exec tmux new-session -s main
+#      fi
+#    fi
+#  fi
 
 # Enable color support for ls and grep
 if command -v dircolors &>/dev/null; then
