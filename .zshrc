@@ -58,6 +58,7 @@ fi
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+alias vconfig='cd ~/.config/nvim/lua/cisco'
 
 # Alias for logout
 alias wlogout="kill $(who -u | awk 'NR==1 {print $6}')"
@@ -77,3 +78,7 @@ pgrep -x ibus-daemon > /dev/null || ibus-daemon -drx
 
 #zsh syntax highlighting
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

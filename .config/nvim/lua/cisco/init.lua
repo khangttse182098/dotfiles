@@ -1,6 +1,6 @@
 require("cisco.keymap")
 require("cisco.set")
-require("cisco.plugin")
+require("cisco.plugins.init")
 
 
 vim.api.nvim_set_hl(0, 'LineNrAbove', { fg='#ddc7a1' })
