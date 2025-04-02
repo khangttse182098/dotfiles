@@ -60,6 +60,8 @@ alias la='ls -A'
 alias l='ls -CF'
 alias vconfig='cd ~/.config/nvim/lua/cisco'
 
+# export CORNE_MAC="D1:E2:87:02:CD:FA"
+
 # Alias for logout
 alias wlogout="kill $(who -u | awk 'NR==1 {print $6}')"
 

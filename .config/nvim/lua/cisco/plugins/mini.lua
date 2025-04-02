@@ -21,8 +21,13 @@ return {
   {
     'echasnovski/mini.files',
     config = function()
-      require('mini.files').setup()
-      vim.keymap.set('n', '<leader>e', '<cmd>lua MiniFiles.open()<CR>',
+      require('mini.files').setup({
+        mappings = {
+          go_in_plus = "<CR>",
+          synchronize = "s"
+        }
+      })
+      vim.keymap.set('n', '<leader>e', '<cmd>lua MiniFiles.open(nil, false)<CR>',
         { noremap = true, silent = true })
     end,
   },

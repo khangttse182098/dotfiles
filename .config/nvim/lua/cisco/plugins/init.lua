@@ -17,6 +17,7 @@ require("lazy").setup({
   require("cisco.plugins.mini"),
   require("cisco.plugins.flash"),
   require("cisco.plugins.treesitter"),
+  require("cisco.plugins.floaterm"),
 })
 
 -- Reserve a space in the gutter
