@@ -131,7 +131,7 @@ if [ -f "$HOME/.cargo/env" ]; then
 fi
 
 # start ibus
-pgrep -x ibus-daemon > /dev/null || ibus-daemon -drx
+# pgrep -x ibus-daemon > /dev/null || ibus-daemon -drx
 
 # Auto attach or create a tmux session on terminal open
 if command -v tmux &> /dev/null; then

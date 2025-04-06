@@ -7,7 +7,17 @@ return {
     local builtin = require('telescope.builtin')
 
     -- Set up Telescope (optional, if you want additional configuration)
-    telescope.setup {}
+    telescope.setup {
+      defaults = {
+        file_ignore_patterns = {
+          "node_modules",
+          "%.git/",
+          "dist",
+          "build",
+          "package%-lock%.json"
+        },
+      },
+    }
 
     -- Keymaps
     vim.keymap.set('n', '<leader><leader>', ':lua require"telescope.builtin".find_files({ hidden = true })<CR>',
