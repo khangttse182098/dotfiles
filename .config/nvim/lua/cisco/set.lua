@@ -19,3 +19,7 @@ vim.opt.scrolloff = 10
 
 -- Decrease update time
 vim.opt.updatetime = 250
+
+-- Reserve a space in the gutter
+-- This will avoid an annoying layout shift in the screen
+vim.opt.signcolumn = 'yes'

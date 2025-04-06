@@ -14,12 +14,11 @@ require("lazy").setup({
   require("cisco.plugins.lsp"),
   require("cisco.plugins.completion"),
   require("cisco.plugins.telescope"),
+  require("cisco.plugins.devicons"),
   require("cisco.plugins.mini"),
   require("cisco.plugins.flash"),
   require("cisco.plugins.treesitter"),
   require("cisco.plugins.floaterm"),
+  require("cisco.plugins.bufferline"),
 })
 
--- Reserve a space in the gutter
--- This will avoid an annoying layout shift in the screen
-vim.opt.signcolumn = 'yes'
