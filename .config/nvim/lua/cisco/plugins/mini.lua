@@ -11,15 +11,12 @@ return {
       require('mini.comment').setup()
     end,
   },
-  -- {
-  --   'echasnovski/mini.icons',
-  --   config = function()
-  --     require('mini.icons').setup()
-  --   end,
-  --
-  -- },
   {
     'echasnovski/mini.files',
+    lazy = true,
+    keys = {
+      { '<leader>e', function() require('mini.files').open() end, desc = 'Open mini.files' }
+    },
     config = function()
       require('mini.files').setup({
         mappings = {
@@ -30,8 +27,6 @@ return {
           preview = true
         }
       })
-      vim.keymap.set('n', '<leader>e', '<cmd>lua MiniFiles.open()<CR>',
-        { noremap = true, silent = true })
     end,
   },
 }

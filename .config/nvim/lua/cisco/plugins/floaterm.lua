@@ -1,9 +1,0 @@
-return {
-  {
-    'voldikss/vim-floaterm',
-    config = function()
-      vim.api.nvim_set_keymap('n', '<leader>o', ':FloatermToggle<CR>', { noremap = true, silent = true })
-      vim.api.nvim_set_keymap('t', '<Esc><Esc>', '<C-\\><C-n>', { noremap = true, silent = true })
-    end
-  }
-}
