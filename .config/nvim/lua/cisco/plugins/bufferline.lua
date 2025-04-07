@@ -7,10 +7,26 @@ return {
       require("bufferline").setup({
         options = {
           diagnostics = "nvim_lsp", -- Enable LSP diagnostics
-          diagnostics_indicator = function(count, level, _, _)
-            local icon = level:match("error") and " " or " "
-            return " " .. icon .. count
-          end,
+          diagnostics_indicator = function(count, level, diagnostics_dict, context)
+            local icons = {
+              error = "",
+              warning = "",
+              info = "",
+              hint = "󰌵",
+            }
+
+            if diagnostics_dict.error then
+              return " " .. icons.error .. " " .. diagnostics_dict.error
+            elseif diagnostics_dict.warning then
+              return " " .. icons.warning .. " " .. diagnostics_dict.warning
+            elseif diagnostics_dict.info then
+              return " " .. icons.info .. " " .. diagnostics_dict.info
+            elseif diagnostics_dict.hint then
+              return " " .. icons.hint .. " " .. diagnostics_dict.hint
+            end
+
+            return ""
+          end
         },
       })
 
