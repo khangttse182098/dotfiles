@@ -24,6 +24,9 @@ return {
 
       cmp.setup({
         preselect = cmp.PreselectMode.None,
+        completion = {
+          completeopt = 'menu,menuone,noinsert'
+        },
         sources = {
           { name = "nvim_lsp" },
           { name = "luasnip" },
@@ -61,7 +64,41 @@ return {
             return kind
           end,
         },
+        window = {
+          documentation = cmp.config.window.bordered(),
+          completion = cmp.config.window.bordered(),
+        },
+        enabled = function()
+          local context = require("cmp.config.context")
+
+          -- Disable in prompt or nofile buffers
+          local buftype = vim.api.nvim_buf_get_option(0, "buftype")
+          if buftype == "prompt" or buftype == "nofile" then
+            return false
+          end
+
+          -- Disable in specific filetypes (like mini.files)
+          local filetype = vim.bo.filetype
+          local disabled_filetypes = { "TelescopePrompt", "neo-tree", "NvimTree", "Outline", "minifiles" }
+          for _, ft in ipairs(disabled_filetypes) do
+            if filetype == ft then
+              return false
+            end
+          end
+
+          return true
+        end,
       })
+
+
+      -- disble default padding
+      vim.cmd([[
+        highlight! CmpPmenu        guibg=NONE guifg=#d4be98
+        highlight! CmpPmenuBorder  guibg=NONE guifg=#7c6f64
+        highlight! CmpPmenuSel     guibg=#7c6f64 guifg=#fbf1c7 gui=bold
+        highlight! NormalFloat     guibg=NONE
+        highlight! FloatBorder     guibg=NONE guifg=#7c6f64
+      ]])
     end
   },
 }
