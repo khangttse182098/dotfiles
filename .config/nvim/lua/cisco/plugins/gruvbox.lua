@@ -7,8 +7,7 @@ return {
     vim.g.gruvbox_material_better_performance = 1
     vim.g.gruvbox_material_statusline_style = 'default'
     vim.g.gruvbox_material_diagnostic_virtual_text = 'highlighted'
-    vim.cmd.colorscheme('gruvbox-material')
-
+    vim.g.gruvbox_material_enable_bold = 1
     vim.diagnostic.config({
       virtual_text = {
         prefix = '■',
@@ -26,5 +25,7 @@ return {
       update_in_insert = false,
       severity_sort = true,
     })
+
+    vim.cmd.colorscheme('gruvbox-material')
   end,
 }

@@ -90,7 +90,6 @@ return {
         end,
       })
 
-
       -- disble default padding
       vim.cmd([[
         highlight! CmpPmenu        guibg=NONE guifg=#d4be98
