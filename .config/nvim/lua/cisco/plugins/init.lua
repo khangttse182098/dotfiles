@@ -20,4 +20,5 @@ require("lazy").setup({
   require("cisco.plugins.bufferline"),
   require("cisco.plugins.session"),
   require("cisco.plugins.lazygit"),
+  -- require("cisco.plugins.copilot"),
 })
