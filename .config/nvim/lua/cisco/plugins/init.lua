@@ -17,8 +17,6 @@ require("lazy").setup({
   require("cisco.plugins.devicons"),
   require("cisco.plugins.mini"),
   require("cisco.plugins.treesitter"),
-  require("cisco.plugins.bufferline"),
   require("cisco.plugins.session"),
   require("cisco.plugins.lazygit"),
-  -- require("cisco.plugins.copilot"),
 })
