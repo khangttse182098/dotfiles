@@ -1,17 +1,22 @@
 -- Set leader to Space
 vim.g.mapleader = " "
 
+--move line
+vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
+vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
+
 -- Copy to system clipboard
 vim.keymap.set('n', '<leader>y', '"+y', { noremap = true, silent = true })
 vim.keymap.set('v', '<leader>y', '"+y', { noremap = true, silent = true })
 
--- Paste from system clipboard
-vim.keymap.set('n', '<leader>p', '"+p', { noremap = true, silent = true })
-vim.keymap.set('v', '<leader>p', '"+p', { noremap = true, silent = true })
+--paste without losing buffer
+vim.keymap.set("x", "<leader>p", [["_dP]])
 
 -- Center screen when ctrl+d and ctrl+u
 vim.keymap.set('n', '<C-u>', '<C-u>zz', { noremap = true })
 vim.keymap.set('n', '<C-d>', '<C-d>zz', { noremap = true })
+vim.keymap.set("n", "n", "nzzzv")
+vim.keymap.set("n", "N", "Nzzzv")
 
 -- Save with ctrl + s and format
 vim.keymap.set({ 'n', 'i' }, '<C-s>', '<Esc><cmd>w<CR><cmd>lua vim.lsp.buf.format()<CR>',
