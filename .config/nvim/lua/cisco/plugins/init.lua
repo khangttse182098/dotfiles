@@ -18,4 +18,5 @@ require("lazy").setup({
   require("cisco.plugins.treesitter"),
   require("cisco.plugins.session"),
   require("cisco.plugins.lazygit"),
+  require("cisco.plugins.bufferline"),
 })
