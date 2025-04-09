@@ -3,7 +3,9 @@ vim.opt.ttimeoutlen = 10
 vim.opt.number = true
 vim.opt.relativenumber = true
 vim.opt.termguicolors = true
+vim.opt.autoindent = true
 vim.opt.smartindent = true
+vim.opt.ruler = false
 
 -- Case-insensitive searching UNLESS \C or one or more capital letters in the search term
 vim.opt.ignorecase = true
@@ -22,4 +24,4 @@ vim.opt.updatetime = 250
 
 -- Reserve a space in the gutter
 -- This will avoid an annoying layout shift in the screen
-vim.opt.signcolumn = 'yes'
+vim.opt.signcolumn = "yes"

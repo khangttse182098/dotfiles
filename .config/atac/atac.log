@@ -1,0 +1,356 @@
+[2m2025-04-08T12:49:28.263989Z[0m [33m WARN[0m [2matac::app::files::key_bindings[0m[2m:[0m No key bindings file found, using default
+[2m2025-04-08T12:49:28.264018Z[0m [33m WARN[0m [2matac::app::files::theme[0m[2m:[0m No theme file found, using default
+[2m2025-04-08T12:49:31.806334Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T12:49:36.400927Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T12:49:48.807404Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T12:49:50.405488Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T12:49:50.447948Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:49:50.620466Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: s
+[2m2025-04-08T12:49:51.022326Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T12:49:51.252183Z[0m [32m INFO[0m [2matac::app::business_logic::collection[0m[2m:[0m Collection "test" created
+[2m2025-04-08T12:49:51.252223Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T12:49:51.254838Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T12:49:51.986727Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T12:49:53.023728Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T12:49:53.495130Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T12:49:55.618274Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: d
+[2m2025-04-08T12:49:55.737462Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:49:55.895645Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: l
+[2m2025-04-08T12:49:55.927678Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:49:56.145420Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T12:49:56.204051Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:00.028452Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Shift-p
+[2m2025-04-08T12:50:00.292700Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:00.380246Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T12:50:01.040627Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: f
+[2m2025-04-08T12:50:01.068101Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T12:50:01.232887Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T12:50:01.553593Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T12:50:01.699633Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: a
+[2m2025-04-08T12:50:01.886384Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T12:50:02.082152Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: c
+[2m2025-04-08T12:50:02.447333Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:03.108867Z[0m [32m INFO[0m [2matac::app::business_logic::collection[0m[2m:[0m Request "deletePerformance" created in collection "test"
+[2m2025-04-08T12:50:03.108921Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T12:50:03.110606Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T12:50:05.131710Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Down
+[2m2025-04-08T12:50:06.433778Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T12:50:07.079176Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Down
+[2m2025-04-08T12:50:07.957955Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T12:50:09.481866Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T12:50:11.699056Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "POST"
+[2m2025-04-08T12:50:11.699103Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T12:50:11.700815Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T12:50:11.843742Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "PUT"
+[2m2025-04-08T12:50:11.843788Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T12:50:11.844194Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T12:50:12.283941Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "PATCH"
+[2m2025-04-08T12:50:12.283984Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T12:50:12.284348Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T12:50:13.075967Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "DELETE"
+[2m2025-04-08T12:50:13.076039Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T12:50:13.078414Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T12:50:14.671414Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: u
+[2m2025-04-08T12:50:22.091048Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: h
+[2m2025-04-08T12:50:22.091276Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T12:50:22.091386Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T12:50:22.091478Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: p
+[2m2025-04-08T12:50:22.091567Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: s
+[2m2025-04-08T12:50:22.091655Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: :
+[2m2025-04-08T12:50:22.091743Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T12:50:22.091829Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T12:50:22.091917Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: v
+[2m2025-04-08T12:50:22.092005Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T12:50:22.092095Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T12:50:22.092183Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: i
+[2m2025-04-08T12:50:22.092291Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T12:50:22.092387Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: g
+[2m2025-04-08T12:50:22.092478Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Hyphen
+[2m2025-04-08T12:50:22.092567Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: p
+[2m2025-04-08T12:50:22.092653Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T12:50:22.092741Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: l
+[2m2025-04-08T12:50:22.092830Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: l
+[2m2025-04-08T12:50:22.092922Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Hyphen
+[2m2025-04-08T12:50:22.093025Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: b
+[2m2025-04-08T12:50:22.093128Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:22.093241Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: .
+[2m2025-04-08T12:50:22.093352Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T12:50:22.093471Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T12:50:22.093575Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T12:50:22.093675Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:22.093770Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T12:50:22.093864Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: d
+[2m2025-04-08T12:50:22.093958Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:22.094047Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T12:50:22.094137Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: .
+[2m2025-04-08T12:50:22.094234Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: c
+[2m2025-04-08T12:50:22.094335Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T12:50:22.094423Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T12:50:22.094513Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T12:50:22.094601Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: a
+[2m2025-04-08T12:50:22.094687Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: p
+[2m2025-04-08T12:50:22.094777Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: i
+[2m2025-04-08T12:50:22.094866Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T12:50:22.094955Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: c
+[2m2025-04-08T12:50:22.095042Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: a
+[2m2025-04-08T12:50:22.095130Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T12:50:22.095227Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:22.095322Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: g
+[2m2025-04-08T12:50:22.095409Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T12:50:22.095497Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T12:50:22.095588Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: i
+[2m2025-04-08T12:50:22.095677Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:22.095767Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: s
+[2m2025-04-08T12:50:25.389455Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:25.546686Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:25.680256Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:25.828026Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:25.957639Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:26.075750Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:26.235916Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:26.367489Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:26.527839Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:26.661865Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T12:50:26.909873Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: p
+[2m2025-04-08T12:50:27.072200Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:27.205807Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T12:50:27.482263Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: f
+[2m2025-04-08T12:50:27.586160Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T12:50:28.069637Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T12:50:28.305388Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T12:50:28.376692Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: a
+[2m2025-04-08T12:50:28.537312Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T12:50:28.657531Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: c
+[2m2025-04-08T12:50:28.948940Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T12:50:29.828791Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T12:50:52.340771Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: 1
+[2m2025-04-08T12:50:52.691541Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: 3
+[2m2025-04-08T12:51:00.938628Z[0m [32m INFO[0m [2matac::app::business_logic::request::url[0m[2m:[0m URL set to "https://voting-poll-be.onrender.com/api/performance/13"
+[2m2025-04-08T12:51:00.938674Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T12:51:00.938919Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T12:51:02.051099Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Space
+[2m2025-04-08T12:51:02.051164Z[0m [32m INFO[0m [2matac::app::business_logic::request::send[0m[2m:[0m Sending request
+[2m2025-04-08T12:51:02.052059Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeletePerformance[1m}[0m[2m:[0m [2mreqwest::connect[0m[2m:[0m starting new connection: https://voting-poll-be.onrender.com/    
+[2m2025-04-08T12:51:02.067099Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeletePerformance[1m}[0m[2m:[0m [2mhyper_util::client::legacy::connect::http[0m[2m:[0m connecting to 216.24.57.252:443
+[2m2025-04-08T12:51:02.105105Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeletePerformance[1m}[0m[2m:[0m [2mhyper_util::client::legacy::connect::http[0m[2m:[0m connected to 216.24.57.252:443
+[2m2025-04-08T12:51:02.836080Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeletePerformance[1m}[0m[2m:[0m [2mhyper_util::client::legacy::pool[0m[2m:[0m pooling idle connection for ("https", voting-poll-be.onrender.com)
+[2m2025-04-08T12:59:56.330809Z[0m [32m INFO[0m [2matac::app::business_logic::request::query_params[0m[2m:[0m Key "param" with value "value" added to the query params
+[2m2025-04-08T12:59:56.333579Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T12:59:56.335778Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T12:59:57.368256Z[0m [32m INFO[0m [2matac::app::business_logic::request::query_params[0m[2m:[0m Key "param" with value "value" added to the query params
+[2m2025-04-08T12:59:57.368323Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T12:59:57.368669Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T13:00:00.132481Z[0m [32m INFO[0m [2matac::app::business_logic::request::query_params[0m[2m:[0m Query param deleted
+[2m2025-04-08T13:00:00.132533Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:00:00.132827Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: d
+[2m2025-04-08T13:00:01.152254Z[0m [32m INFO[0m [2matac::app::business_logic::request::query_params[0m[2m:[0m Query param deleted
+[2m2025-04-08T13:00:01.152276Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:00:01.152390Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: d
+[2m2025-04-08T13:00:01.154032Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: d
+[2m2025-04-08T13:00:08.545432Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Left
+[2m2025-04-08T13:00:08.952742Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:09.335348Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Left
+[2m2025-04-08T13:00:09.540089Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Left
+[2m2025-04-08T13:00:09.801277Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:09.992498Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Left
+[2m2025-04-08T13:00:10.503084Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:10.691819Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Left
+[2m2025-04-08T13:00:11.761727Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:12.198754Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Left
+[2m2025-04-08T13:00:12.520776Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:12.709764Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Left
+[2m2025-04-08T13:00:13.018990Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:13.660743Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Left
+[2m2025-04-08T13:00:14.494195Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:14.757752Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Left
+[2m2025-04-08T13:00:14.992207Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:16.759128Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T13:00:18.472459Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T13:00:19.480400Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:20.006495Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:00:21.351572Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:21.760447Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:21.950250Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:22.097050Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:22.345556Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:22.506192Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:22.757819Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Ctrl-h
+[2m2025-04-08T13:00:24.188894Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T13:00:24.904201Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:25.066001Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:25.180562Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:25.342177Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:25.472661Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:26.307938Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Shift-c
+[2m2025-04-08T13:00:26.468880Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: a
+[2m2025-04-08T13:00:26.819910Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T13:00:26.964854Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T13:00:27.242301Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: g
+[2m2025-04-08T13:00:27.447860Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T13:00:27.872906Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T13:00:28.631981Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: y
+[2m2025-04-08T13:00:30.180819Z[0m [32m INFO[0m [2matac::app::business_logic::collection[0m[2m:[0m Request "deleteCategory" created in collection "test"
+[2m2025-04-08T13:00:30.180858Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:00:30.181044Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:00:32.109716Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Down
+[2m2025-04-08T13:00:32.752375Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:00:33.571820Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "POST"
+[2m2025-04-08T13:00:33.571869Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:00:33.572158Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:00:33.718683Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "PUT"
+[2m2025-04-08T13:00:33.718730Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:00:33.718974Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:00:33.881010Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "PATCH"
+[2m2025-04-08T13:00:33.881062Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:00:33.881372Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:00:34.289732Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "DELETE"
+[2m2025-04-08T13:00:34.289780Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:00:34.290034Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:00:36.218794Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: u
+[2m2025-04-08T13:00:38.469860Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T13:00:40.194664Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Up
+[2m2025-04-08T13:00:41.388623Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T13:00:41.890849Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Up
+[2m2025-04-08T13:00:42.344573Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:00:44.448051Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: u
+[2m2025-04-08T13:00:46.087301Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Ctrl-a
+[2m2025-04-08T13:00:46.729457Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:00:48.199519Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T13:00:49.183570Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: y
+[2m2025-04-08T13:00:50.682117Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: y
+[2m2025-04-08T13:00:51.778272Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: y
+[2m2025-04-08T13:00:51.923312Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: y
+[2m2025-04-08T13:00:54.549162Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T13:00:55.922472Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Down
+[2m2025-04-08T13:00:56.332839Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:00:57.983766Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:00:59.664477Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: u
+[2m2025-04-08T13:01:00.313242Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: {
+[2m2025-04-08T13:01:00.314259Z[0m [32m INFO[0m [2matac::app::business_logic::request::url[0m[2m:[0m URL set to "{"
+[2m2025-04-08T13:01:00.314284Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:01:00.314484Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:01:00.349716Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Space
+[2m2025-04-08T13:01:00.351680Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Space
+[2m2025-04-08T13:01:00.352184Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "HEAD"
+[2m2025-04-08T13:01:00.352191Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:01:00.352263Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:01:00.352494Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T13:01:00.352710Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: s
+[2m2025-04-08T13:01:00.363185Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:01:00.363260Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:01:02.898271Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T13:01:05.730075Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Up
+[2m2025-04-08T13:01:05.891663Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Down
+[2m2025-04-08T13:01:06.374262Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:01:07.045812Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "OPTIONS"
+[2m2025-04-08T13:01:07.045857Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:01:07.046088Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:01:07.252282Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "GET"
+[2m2025-04-08T13:01:07.252327Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:01:07.252561Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:01:07.558798Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "POST"
+[2m2025-04-08T13:01:07.558844Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:01:07.559106Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:01:07.967989Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "PUT"
+[2m2025-04-08T13:01:07.968043Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:01:07.968343Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:01:08.348056Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "PATCH"
+[2m2025-04-08T13:01:08.348108Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:01:08.348579Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:01:08.799771Z[0m [32m INFO[0m [2matac::tui::tui_logic::request::method[0m[2m:[0m Method set to "DELETE"
+[2m2025-04-08T13:01:08.799821Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:01:08.800335Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:01:15.885781Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: u
+[2m2025-04-08T13:01:16.313262Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:01:20.183203Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Ctrl-c
+[2m2025-04-08T13:01:20.653948Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: j
+[2m2025-04-08T13:01:21.734968Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:01:21.864912Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:01:34.016154Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: h
+[2m2025-04-08T13:01:34.016963Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T13:01:34.017396Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T13:01:34.017699Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: p
+[2m2025-04-08T13:01:34.017973Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: s
+[2m2025-04-08T13:01:34.018267Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: :
+[2m2025-04-08T13:01:34.018547Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T13:01:34.018818Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T13:01:34.019071Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: v
+[2m2025-04-08T13:01:34.019304Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T13:01:34.019533Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T13:01:34.019755Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: i
+[2m2025-04-08T13:01:34.019987Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T13:01:34.020201Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: g
+[2m2025-04-08T13:01:34.020421Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Hyphen
+[2m2025-04-08T13:01:34.020634Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: p
+[2m2025-04-08T13:01:34.020854Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T13:01:34.021063Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: l
+[2m2025-04-08T13:01:34.021282Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: l
+[2m2025-04-08T13:01:34.021490Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Hyphen
+[2m2025-04-08T13:01:34.021691Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: b
+[2m2025-04-08T13:01:34.021897Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T13:01:34.022102Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: .
+[2m2025-04-08T13:01:34.022308Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T13:01:34.022522Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T13:01:34.022734Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T13:01:34.022963Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T13:01:34.023185Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: n
+[2m2025-04-08T13:01:34.023398Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: d
+[2m2025-04-08T13:01:34.023603Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T13:01:34.023821Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T13:01:34.024038Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: .
+[2m2025-04-08T13:01:34.024259Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: c
+[2m2025-04-08T13:01:34.024475Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T13:01:34.024698Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: m
+[2m2025-04-08T13:01:34.024908Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T13:01:34.025156Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: a
+[2m2025-04-08T13:01:34.025689Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: p
+[2m2025-04-08T13:01:34.025952Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: i
+[2m2025-04-08T13:01:34.026195Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T13:01:34.026396Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: c
+[2m2025-04-08T13:01:34.026606Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: a
+[2m2025-04-08T13:01:34.026810Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: t
+[2m2025-04-08T13:01:34.027019Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T13:01:34.027235Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: g
+[2m2025-04-08T13:01:34.027464Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: o
+[2m2025-04-08T13:01:34.027687Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: r
+[2m2025-04-08T13:01:34.027987Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: i
+[2m2025-04-08T13:01:34.028201Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: e
+[2m2025-04-08T13:01:34.028438Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: s
+[2m2025-04-08T13:01:34.950660Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:01:35.402094Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:01:35.981710Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:01:36.352264Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: y
+[2m2025-04-08T13:01:37.636179Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: /
+[2m2025-04-08T13:01:50.492596Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: 1
+[2m2025-04-08T13:01:50.708400Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: 6
+[2m2025-04-08T13:02:18.040799Z[0m [32m INFO[0m [2matac::app::business_logic::request::url[0m[2m:[0m URL set to "https://voting-poll-be.onrender.com/api/category/16"
+[2m2025-04-08T13:02:18.040855Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:02:18.041137Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:02:19.454763Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Space
+[2m2025-04-08T13:02:19.454852Z[0m [32m INFO[0m [2matac::app::business_logic::request::send[0m[2m:[0m Sending request
+[2m2025-04-08T13:02:19.454951Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeleteCategory[1m}[0m[2m:[0m [2mreqwest::connect[0m[2m:[0m starting new connection: https://voting-poll-be.onrender.com/    
+[2m2025-04-08T13:02:19.496022Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeleteCategory[1m}[0m[2m:[0m [2mhyper_util::client::legacy::connect::http[0m[2m:[0m connecting to 216.24.57.4:443
+[2m2025-04-08T13:02:19.539550Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeleteCategory[1m}[0m[2m:[0m [2mhyper_util::client::legacy::connect::http[0m[2m:[0m connected to 216.24.57.4:443
+[2m2025-04-08T13:02:20.277097Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeleteCategory[1m}[0m[2m:[0m [2mhyper_util::client::legacy::pool[0m[2m:[0m pooling idle connection for ("https", voting-poll-be.onrender.com)
+[2m2025-04-08T13:02:24.000667Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T13:02:25.534753Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Up
+[2m2025-04-08T13:02:26.266253Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:02:27.187109Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Right
+[2m2025-04-08T13:02:38.688100Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: u
+[2m2025-04-08T13:02:39.260348Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:02:39.640226Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: 4
+[2m2025-04-08T13:02:39.886675Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: 4
+[2m2025-04-08T13:02:40.337773Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:02:40.760593Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Esc
+[2m2025-04-08T13:02:43.043370Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: u
+[2m2025-04-08T13:02:43.555686Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Backspace
+[2m2025-04-08T13:02:43.921065Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: 4
+[2m2025-04-08T13:02:44.577893Z[0m [32m INFO[0m [2matac::app::business_logic::request::url[0m[2m:[0m URL set to "https://voting-poll-be.onrender.com/api/performance/14"
+[2m2025-04-08T13:02:44.577942Z[0m [32m INFO[0m [2matac::app::files::collection[0m[2m:[0m Saving collection "test"
+[2m2025-04-08T13:02:44.578140Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Enter
+[2m2025-04-08T13:02:45.183222Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Space
+[2m2025-04-08T13:02:45.183408Z[0m [32m INFO[0m [2matac::app::business_logic::request::send[0m[2m:[0m Sending request
+[2m2025-04-08T13:02:45.183555Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeletePerformance[1m}[0m[2m:[0m [2mreqwest::connect[0m[2m:[0m starting new connection: https://voting-poll-be.onrender.com/    
+[2m2025-04-08T13:02:45.237044Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeletePerformance[1m}[0m[2m:[0m [2mhyper_util::client::legacy::connect::http[0m[2m:[0m connecting to 216.24.57.4:443
+[2m2025-04-08T13:02:45.281053Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeletePerformance[1m}[0m[2m:[0m [2mhyper_util::client::legacy::connect::http[0m[2m:[0m connected to 216.24.57.4:443
+[2m2025-04-08T13:02:46.828470Z[0m [34mDEBUG[0m [1mHTTP request[0m[1m{[0m[3mhttp.request.method[0m[2m=[0mDELETE [3murl.scheme[0m[2m=[0mhttps [3mserver.address[0m[2m=[0mvoting-poll-be.onrender.com [3mserver.port[0m[2m=[0m443 [3muser_agent.original[0m[2m=[0mATAC/v0.19.0 [3motel.kind[0m[2m=[0m"client" [3motel.name[0m[2m=[0mdeletePerformance[1m}[0m[2m:[0m [2mhyper_util::client::legacy::pool[0m[2m:[0m pooling idle connection for ("https", voting-poll-be.onrender.com)
