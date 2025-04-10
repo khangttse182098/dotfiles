@@ -24,4 +24,8 @@ require("lazy").setup({
 	require("cisco.plugins.ts-autotag"),
 	require("cisco.plugins.autopairs"),
 	require("cisco.plugins.conform"),
+	require("cisco.plugins.colorizer"),
+	require("cisco.plugins.comment"),
+	require("cisco.plugins.render-markdown"),
+	require("cisco.plugins.markdown-preview"),
 })

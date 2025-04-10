@@ -1,6 +1,6 @@
 # Paths
 export PATH="/snap/bin:$PATH"
-export PATH=$(echo "$PATH" | tr ':' '\n' | grep -v '^/mnt/c/' | paste -sd ':' -)
+# export PATH=$(echo "$PATH" | tr ':' '\n' | grep -v '^/mnt/c/' | paste -sd ':' -)
 
 # Aliases
 alias bat='batcat'
