@@ -28,4 +28,6 @@ require("lazy").setup({
 	require("cisco.plugins.comment"),
 	require("cisco.plugins.render-markdown"),
 	require("cisco.plugins.markdown-preview"),
+	require("cisco.plugins.flash"),
+	require("cisco.plugins.pomo"),
 })

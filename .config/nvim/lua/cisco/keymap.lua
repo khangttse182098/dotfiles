@@ -29,7 +29,11 @@ vim.keymap.set("n", "<leader>j", "<C-w>j", opts)
 vim.keymap.set("n", "<leader>k", "<C-w>k", opts)
 
 -- Save with ctrl + s and format
-vim.keymap.set({ "n", "i" }, "<C-s>", "<Esc><cmd>w<CR><cmd>lua vim.lsp.buf.format()<CR>", opts)
+vim.keymap.set({ "n", "i" }, "<C-s>", function()
+	vim.cmd("stopinsert") -- exit insert mode if needed
+	vim.cmd("w") -- save first, if you want
+	require("conform").format({ lsp_fallback = true })
+end, opts)
 
 --show hover
 vim.keymap.set("n", "<leader>sk", function()
