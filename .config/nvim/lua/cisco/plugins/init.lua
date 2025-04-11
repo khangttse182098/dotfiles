@@ -30,4 +30,5 @@ require("lazy").setup({
 	require("cisco.plugins.markdown-preview"),
 	require("cisco.plugins.flash"),
 	require("cisco.plugins.pomo"),
+	require("cisco.plugins.vim-visual-multi"),
 })

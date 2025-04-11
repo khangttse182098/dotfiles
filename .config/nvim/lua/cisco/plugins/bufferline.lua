@@ -11,6 +11,9 @@ return {
 					},
 				},
 				options = {
+					separator_style = { "", "" },
+					tab_size = 8,
+					show_buffer_close_icons = false,
 					diagnostics = "nvim_lsp", -- Enable LSP diagnostics
 					diagnostics_indicator = function(count, level, diagnostics_dict, context)
 						local icons = {
@@ -21,13 +24,13 @@ return {
 						}
 
 						if diagnostics_dict.error then
-							return " " .. icons.error .. " " .. diagnostics_dict.error
+							return " " .. icons.error--[[  .. " " .. diagnostics_dict.error ]]
 						elseif diagnostics_dict.warning then
-							return " " .. icons.warning .. " " .. diagnostics_dict.warning
+							return " " .. icons.warning--[[ .. " " .. diagnostics_dict.warning ]]
 						elseif diagnostics_dict.info then
-							return " " .. icons.info .. " " .. diagnostics_dict.info
+							return " " .. icons.info--[[ .. " " .. diagnostics_dict.info ]]
 						elseif diagnostics_dict.hint then
-							return " " .. icons.hint .. " " .. diagnostics_dict.hint
+							return " " .. icons.hint--[[ .. " " .. diagnostics_dict.hint ]]
 						end
 
 						return ""
