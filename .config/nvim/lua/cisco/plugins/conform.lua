@@ -10,7 +10,6 @@ return {
 				html = { "djlint" },
 				css = { "prettier" },
 				lua = { "stylua" },
-				go = { "golines" },
 			},
 			format_on_save = {
 				lsp_fallback = true,
