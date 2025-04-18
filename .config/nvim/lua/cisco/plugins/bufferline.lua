@@ -11,6 +11,7 @@ return {
 					},
 				},
 				options = {
+					show_buffer_icons = true,
 					separator_style = { "", "" },
 					tab_size = 8,
 					show_buffer_close_icons = false,

@@ -17,7 +17,7 @@ return {
 				close = "<leader>e",
 			},
 			windows = {
-				preview = true,
+				preview = false,
 			},
 		},
 	},

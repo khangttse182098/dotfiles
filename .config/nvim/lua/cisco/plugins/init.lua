@@ -9,7 +9,7 @@ end ---@diagnostic disable-next-line: undefined-field
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
-	require("cisco.plugins.gruvbox"),
+	require("cisco.plugins.colorscheme"),
 	require("cisco.plugins.lsp"),
 	require("cisco.plugins.completion"),
 	require("cisco.plugins.telescope"),
@@ -19,7 +19,6 @@ require("lazy").setup({
 	require("cisco.plugins.session"),
 	require("cisco.plugins.lazygit"),
 	require("cisco.plugins.bufferline"),
-	require("cisco.plugins.copilot"),
 	require("cisco.plugins.marks"),
 	require("cisco.plugins.ts-autotag"),
 	require("cisco.plugins.autopairs"),
@@ -29,7 +28,7 @@ require("lazy").setup({
 	require("cisco.plugins.render-markdown"),
 	require("cisco.plugins.markdown-preview"),
 	require("cisco.plugins.flash"),
-	require("cisco.plugins.pomo"),
 	require("cisco.plugins.vim-visual-multi"),
 	require("cisco.plugins.gitsigns"),
+	require("cisco.plugins.butter-type-hover"),
 })
