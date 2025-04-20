@@ -30,5 +30,4 @@ require("lazy").setup({
 	require("cisco.plugins.flash"),
 	require("cisco.plugins.vim-visual-multi"),
 	require("cisco.plugins.gitsigns"),
-	require("cisco.plugins.butter-type-hover"),
 })
