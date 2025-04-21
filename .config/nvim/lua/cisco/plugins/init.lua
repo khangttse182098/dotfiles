@@ -18,7 +18,7 @@ require("lazy").setup({
 	require("cisco.plugins.treesitter"),
 	require("cisco.plugins.session"),
 	require("cisco.plugins.lazygit"),
-	require("cisco.plugins.bufferline"),
+	-- require("cisco.plugins.bufferline"),
 	require("cisco.plugins.marks"),
 	require("cisco.plugins.ts-autotag"),
 	require("cisco.plugins.autopairs"),
@@ -27,7 +27,7 @@ require("lazy").setup({
 	require("cisco.plugins.comment"),
 	require("cisco.plugins.render-markdown"),
 	require("cisco.plugins.markdown-preview"),
-	require("cisco.plugins.flash"),
+	-- require("cisco.plugins.flash"),
 	require("cisco.plugins.vim-visual-multi"),
 	require("cisco.plugins.gitsigns"),
 })

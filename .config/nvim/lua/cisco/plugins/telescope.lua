@@ -12,12 +12,12 @@ return {
 				layout_strategy = "horizontal",
 				layout_config = {
 					horizontal = {
-						prompt_position = "top",
+						prompt_position = "bottom",
 						preview_width = 0.55,
 						results_width = 0.45,
 					},
-					width = 0.99,
-					height = 0.99,
+					width = 0.75,
+					height = 0.75,
 					preview_cutoff = 100,
 				},
 				selection_caret = "➤ ",
